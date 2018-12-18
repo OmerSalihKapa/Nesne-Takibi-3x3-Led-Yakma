@@ -1,0 +1,86 @@
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\Led Yakma\Deneme 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\3x3 Nesne Takibi Led Uygulaması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.dll
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Vision.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AForge.Math.xml
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Omaru Sama\Desktop\İmage Ödevler\Uygulama\Kol hareketi ile servo motor kontrolü\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
